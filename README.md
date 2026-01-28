@@ -165,3 +165,7 @@ ella
 설정은 AppData에 안전하게 저장됨
 
 초기화 가능
+
+
+## 📦 다운로드
+👉 https://github.com/yoonjaejung14-coder/ellaOS/releases
