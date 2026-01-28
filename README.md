@@ -25,9 +25,9 @@ C:\Users\사용자이름\
 
 
 예시:
-
+```
 C:\Users\yoonj\ella.exe
-
+```
 
 ❌ 바탕화면 / 다운로드 / USB
 ⭕ C:\Users\사용자이름\ ← 권장 위치
@@ -39,10 +39,10 @@ ella.exe는 CMD에서 ella 라는 명령어로 실행합니다.
 3-1. 실행 방법
 
 CMD에서 입력:
-
+```
 cd C:\Users\사용자이름
 ella
-
+```
 
 👉 ellaOS 4.0 실행
 
@@ -53,7 +53,9 @@ ella
 처음 실행 시 초기 설정 화면이 나타납니다.
 
 🔑 제품 키
+```
 ellaOS-4.03-71234
+```
 
 🔒 비밀번호 설정
 
@@ -156,9 +158,9 @@ ella
 
 ✅ 요약
 
-설치 위치: C:\Users\사용자이름\ella.exe
+설치 위치: `C:\Users\사용자이름\ella.exe`
 
-실행 방법: CMD에서 ella
+실행 방법: CMD에서 `ella`
 
 설정은 AppData에 안전하게 저장됨
 
