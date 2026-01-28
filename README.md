@@ -1,4 +1,4 @@
-#📘 ellaOS 4.0 사용 설명서 (ella.exe)
+# 📘 ellaOS 4.0 사용 설명서 (ella.exe)
 1️⃣ CMD(명령 프롬프트) 여는 방법
 방법 1 (가장 쉬움)
 
